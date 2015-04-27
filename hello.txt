@@ -3,6 +3,7 @@ Hello.
 I'm Takashi SASAKI.
 
 Are you fine ?
+I'm fine.
 
 Bye.
 
