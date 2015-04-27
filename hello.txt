@@ -3,6 +3,7 @@ Hello.
 I'm Takashi SASAKI, working as an assistant in Ehime University.
 
 Are you fine ?
+I'm fine.
 
 Bye.
 
